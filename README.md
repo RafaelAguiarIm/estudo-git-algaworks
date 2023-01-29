@@ -1,1 +1,1 @@
-# estudo-git-algaworks
+Estudo de Git - plataforma Algaworks
